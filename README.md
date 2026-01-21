@@ -1,4 +1,7 @@
 # finalproject-otomatisasi_strukcafe
+Latar Belakang: "Di industri food & beverage saat ini, kecepatan layanan dan akurasi data adalah segalanya. Kami mengembangkan sistem kasir berbasis Python ini untuk menjembatani kebutuhan cafe yang ingin beralih dari pencatatan manual ke sistem digital yang efisien."
+
+Visi: "Fokus utama kami adalah menghadirkan aplikasi yang lightweight (ringan) namun memiliki fitur lengkap seperti perhitungan pajak otomatis dan cetak struk profesional."
 1. Arsitektur Data & Library
 Aplikasi ini dibangun menggunakan struktur data Dictionary untuk menyimpan menu, yang memungkinkan pencarian item secara cepat berdasarkan kode unik.
 •	FPDF: Digunakan sebagai mesin pembuat dokumen. Library ini menyusun teks, garis, dan format mata uang ke dalam koordinat PDF yang presisi.
